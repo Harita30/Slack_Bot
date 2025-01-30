@@ -1,10 +1,9 @@
 # Excuse me, while I learn, learn and learn.
 
-Welcome to my collection of projects! In this repository, I showcase various projects that I have worked on over the weeks as I continue to learn and build my skills.
+Welcome to my collection of projects! In this repository, I showcase various projects that I have worked on as I continue to learn and build my skills.
 
 ## Projects:
 
-### Week 1
 - **[Slack Bot Project](slack_bot)**
   - **Description**: This project is a Slack bot built using Django and integrated with Slack's Events API. The bot listens to specific events and responds to messages.
   - **Technologies Used**: Django, Slack API, Ngrok, Postman/cURL
@@ -18,7 +17,7 @@ Welcome to my collection of projects! In this repository, I showcase various pro
 
 ---
 
-### **Technologies I've Learned so far**:
+### **Technologies I've Learned**:
 As part of the weekly projects, I have gained hands-on experience with the following technologies and concepts:
 - **Django** (Web Framework)
 - **Slack API** (Event Handling)
